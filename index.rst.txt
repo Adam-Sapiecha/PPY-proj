@@ -1,0 +1,7 @@
+Wisielec
+========
+
+.. automodule:: wisielec
+   :members:
+   :undoc-members:
+   :show-inheritance:
